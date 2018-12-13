@@ -1,0 +1,10 @@
+.cards {
+    float: left;
+    padding: 1%;
+}
+
+nav li {
+  display: inline-block;
+  text-decoration: none;
+  padding: 5px;
+}
